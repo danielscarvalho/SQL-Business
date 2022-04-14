@@ -1,6 +1,4 @@
-# SQL-Business
-
-## SQL for Business boot camp (SQLite)
+# SQL for Business boot camp (SQLite)
 
 SQL is one of the programming languages created to support business, such as Java and COBOL.
 
