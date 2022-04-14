@@ -4,11 +4,11 @@
 
 SQL is good to manage structured data on databases (RDMS - [Relational Database Management System](https://en.wikipedia.org/wiki/Relational_database)) such as MySQL, Oracle, MS SQL Server, DB2, etc...
 
-<quote>
-A relational database management system (RDBMS) is a collection of programs and capabilities that enable IT teams and others to create, update, administer and otherwise interact with a relational database. RDBMSes store data in the form of tables, with most commercial relational database management systems using Structured Query Language (SQL) to access the database. However, since SQL was invented after the initial development of the relational model, it is not necessary for RDBMS use.
+> A relational database management system (RDBMS) is a collection of programs and capabilities that enable IT teams and others to create, update, administer and otherwise interact with a relational database. RDBMSes store data in the form of tables, with most commercial relational database management systems using Structured Query Language (SQL) to access the database. However, since SQL was invented after the initial development of the relational model, it is not necessary for RDBMS use.
 
-The RDBMS is the most popular database system among organizations across the world. It provides a dependable method of storing and retrieving large amounts of data while offering a combination of system performance and ease of implementation.  [1](https://www.techtarget.com/searchdatamanagement/definition/RDBMS-relational-database-management-system#:~:text=An%20RDBMS%20is%20a%20type,storage%20used%20in%20a%20DBMS.)
-<quote>
+> The RDBMS is the most popular database system among organizations across the world. It provides a dependable method of storing and retrieving large amounts of data while offering a combination of system performance and ease of implementation.  \[[1](https://www.techtarget.com/searchdatamanagement/definition/RDBMS-relational-database-management-system#:~:text=An%20RDBMS%20is%20a%20type,storage%20used%20in%20a%20DBMS.)\]
+
+Structured data is like a bi-dimensional cartesian information, such as an spread sheet data, that has lines (register, records) and columns (fiels).
 
 Here we are going to explore SQLite, a free singue user database used for Data Science (Data Analysis) and for mobile apps too.
 
