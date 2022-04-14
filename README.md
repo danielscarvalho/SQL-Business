@@ -12,7 +12,7 @@ We need to install SQLite (Windows, Linux or Mac) and SQLite Explorer
 - https://sqlite.org
 - https://sqlitestudio.pl/
 
-![https://www.sqlitetutorial.net/wp-content/uploads/2015/11/sqlite-sample-database-color.jpg](Data Model)
+<img src="https://www.sqlitetutorial.net/wp-content/uploads/2015/11/sqlite-sample-database-color.jpg">
 
 References:
 - https://www.w3schools.com/sql/
